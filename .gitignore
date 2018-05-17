@@ -1,5 +1,6 @@
 # dependencies
 node_modules
+yarn.lock
 
 # logs
 npm-debug.log
@@ -9,3 +10,6 @@ npm-debug.log
 
 # Nuxt generate
 dist
+
+# config
+.contentful.json
